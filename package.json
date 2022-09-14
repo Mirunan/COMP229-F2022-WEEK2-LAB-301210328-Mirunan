@@ -2,7 +2,7 @@
   "name": "mirunan-comp229-2022",
   "version": "1.0.0",
   "description": "Comp229-WEEK2-LAB",
-  "main": "index.js",
+  "main": "server.js",
   "directories": {
     "test": "test"
   },
