@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Comp229-WEEK2-LAB",
   "main": "server.js",
+  "dependencies": {
+    "connect": "^3.7.0"
+  },
   "directories": {
     "test": "test"
   },
